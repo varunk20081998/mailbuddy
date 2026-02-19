@@ -1,4 +1,4 @@
-# MailBuddy
+# MailBuddy testing PR script
 
 Send custom emails to anyone. Choose your favorite template from our vast collection, fill in the details for the custom fields and send. Sending beautiful emails have never gotten easier.
 
